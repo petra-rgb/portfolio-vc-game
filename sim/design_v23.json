@@ -1,0 +1,23 @@
+{
+  "payout_Growth": 1.0,
+  "payout_Series A": 1.15,
+  "payout_Seed": 1.0,
+  "payout_Pre-seed": 1.0,
+  "payout_Contrarian": 0.8,
+  "cost_Growth": 0,
+  "cost_Series A": -1,
+  "cost_Seed": -1,
+  "cost_Pre-seed": -1,
+  "cost_Contrarian": 2,
+  "rep_profit": 2,
+  "rep_loss_low": 2,
+  "rep_loss_high": 3,
+  "rep_bust_extra": 1,
+  "coach_cost": 1,
+  "start_capital": 17,
+  "spec_per": 4,
+  "operator_coaches": 5,
+  "contrarian_exits": 2,
+  "platform_sectors": 4,
+  "lightspeed_surcharge": 4
+}
